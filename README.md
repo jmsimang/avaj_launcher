@@ -1,6 +1,9 @@
 # avaj_launcher
 This is the first project in a series of 3 projects with a focus on Java.
 
+## toolset
+IntelliJ IDEA Ultimate or Community - Java Project
+
 ## introduction
 In order to create great software, one doesn’t only write code, one needs to design it first. 
 
